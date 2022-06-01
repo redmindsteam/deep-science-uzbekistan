@@ -6,5 +6,5 @@
 * [Ma'lumotlar tuzilmasi](tutorials/malumotlar-tuzilmasi.md)
 * [Dasturlash tillari](tutorials/dasturlash-tillari.md)
 * [Ma'lumotlar bazasi](tutorials/malumotlar-bazasi.md)
-* [Dasturiy ta'minot arxitekturasi](tutorials/dasturiy-taminot-arxitekturasi.md)
+* [DT Arxitekturasi](tutorials/dt-arxitekturasi.md)
 * [DTL Boshqaruvi](tutorials/dtl-boshqaruvi.md)
