@@ -7,3 +7,4 @@
 * [Dasturlash tillari](tutorials/dasturlash-tillari.md)
 * [Ma'lumotlar bazasi](tutorials/malumotlar-bazasi.md)
 * [Dasturiy ta'minot arxitekturasi](tutorials/dasturiy-taminot-arxitekturasi.md)
+* [DTL Boshqaruvi](tutorials/dtl-boshqaruvi.md)
