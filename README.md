@@ -1,2 +1,2 @@
-# Algorithmlar
+# Algoritmlar
 

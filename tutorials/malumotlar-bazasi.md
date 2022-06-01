@@ -1,0 +1,2 @@
+# Ma'lumotlar bazasi
+

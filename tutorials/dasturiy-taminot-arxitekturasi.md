@@ -1,0 +1,2 @@
+# Dasturiy ta'minot arxitekturasi
+
