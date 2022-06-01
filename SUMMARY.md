@@ -9,4 +9,6 @@
 * [DT Arxitekturasi](tutorials/dt-arxitekturasi/README.md)
   * [CLEAN Arxitekturasi](tutorials/dt-arxitekturasi/clean-arxitekturasi.md)
   * [UML diogrammasi](tutorials/dt-arxitekturasi/uml-diogrammasi.md)
-* [DTL Boshqaruvi](tutorials/dtl-boshqaruvi.md)
+* [DTL Boshqaruvi](tutorials/dtl-boshqaruvi/README.md)
+  * [Waterfall metadologiyasi](tutorials/dtl-boshqaruvi/waterfall-metadologiyasi.md)
+  * [Agile metadologiyasi](tutorials/dtl-boshqaruvi/agile-metadologiyasi.md)
