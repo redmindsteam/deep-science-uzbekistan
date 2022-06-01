@@ -17,6 +17,8 @@
     * [Shell](tutorials/algoritmlar/saralash-algoritmlari/shell.md)
     * [Counting](tutorials/algoritmlar/saralash-algoritmlari/counting.md)
     * [Buble](tutorials/algoritmlar/saralash-algoritmlari/buble.md)
+  * [Maxsus algoritmlar](tutorials/algoritmlar/maxsus-algoritmlar/README.md)
+    * [Shuffle](tutorials/algoritmlar/maxsus-algoritmlar/shuffle.md)
 * [Ma'lumotlar tuzilmasi](tutorials/malumotlar-tuzilmasi.md)
 * [Dasturlash tillari](tutorials/dasturlash-tillari.md)
 * [Ma'lumotlar bazasi](tutorials/malumotlar-bazasi.md)
